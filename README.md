@@ -16,6 +16,6 @@
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/discord-bots/discord-bots.png?raw=true"/></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/json/json.png?raw=true"/></code>
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aquerr&show_icons=true&theme=dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquerr&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats-ten-gamma-37.vercel.app/api?username=aquerr&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats-ten-gamma-37.vercel.app/api/top-langs/?username=aquerr&layout=compact&theme=dark" />
 </div>
