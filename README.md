@@ -6,7 +6,7 @@
 
 💻 Actively developing plugins for Minecraft and Discord Bots.
 
-📫 You can reach me at [Github](https://github.com/Aquerr/Aquerr/issues) or at my [Discord Server](https://github.com/Aquerr/Aquerr/issues)
+📫 You can reach me at [Github](https://github.com/Aquerr/Aquerr/issues) or at my [Discord Server](https://discord.gg/RfxRRcggjP)
   
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true"/></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/spring/spring.png?raw=true"/></code>
